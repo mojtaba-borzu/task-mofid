@@ -1,0 +1,4 @@
+@import '../../public/fonts/stylesheet.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
